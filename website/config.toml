@@ -1,0 +1,4 @@
+baseurl = "http://armada.io"
+languageCode = "en-us"
+title = "Armada.io Production Engineering"
+publishdir = ".."

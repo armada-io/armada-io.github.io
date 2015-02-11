@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Armada.io Production Engineering</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Armada.io Production Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;about:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;We are passionate about delivering software that is used.&lt;/p&gt;
+
+&lt;h3 id=&#34;our-mission:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Our Mission&lt;/h3&gt;
+
+&lt;p&gt;Our mission is to change the way we as software engineers deal with the datacenter.  To treat production like the first class citizen it is.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/services/</guid>
+      <description>
+
+&lt;h1 id=&#34;services:bfc9941b6b6fd7b4ef09dd0ccd08af0c&#34;&gt;Services&lt;/h1&gt;
+
+&lt;p&gt;We help organizations with production engineering.&lt;/p&gt;
+
+&lt;h2 id=&#34;production-sanity:bfc9941b6b6fd7b4ef09dd0ccd08af0c&#34;&gt;Production Sanity&lt;/h2&gt;
+
+&lt;p&gt;Reaching sanity in production is the primary goal.  It involves three main areas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;visibility - requests per second + error rates + duration percentiles&lt;/li&gt;
+&lt;li&gt;changeability - automated deployment / configuration&lt;/li&gt;
+&lt;li&gt;reliability - understand / plan for basic failure cases, reporting failures&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;post-sanity:bfc9941b6b6fd7b4ef09dd0ccd08af0c&#34;&gt;Post Sanity&lt;/h2&gt;
+
+&lt;p&gt;Once production sanity is reached, teams can focus on several areas for improvement: resiliency, data flow, and delivery pipeline.&lt;/p&gt;
+
+&lt;h3 id=&#34;resiliency:bfc9941b6b6fd7b4ef09dd0ccd08af0c&#34;&gt;Resiliency&lt;/h3&gt;
+
+&lt;p&gt;Resiliency is surviving and recovering from known and unknown events.  Ensuring that all connections are guarded or planned for failure using techniques such as exponential back off, load shedding, request collapsing, fallback caches.&lt;/p&gt;
+
+&lt;h3 id=&#34;data-flow:bfc9941b6b6fd7b4ef09dd0ccd08af0c&#34;&gt;Data Flow&lt;/h3&gt;
+
+&lt;p&gt;Modeling the system as a FSM and using write ahead journals to record state changes as the source of record, using consensus to achieve consistency.  This can then be consumed into several data systems for further query and/or analysis.&lt;/p&gt;
+
+&lt;h3 id=&#34;delivery-pipeline:bfc9941b6b6fd7b4ef09dd0ccd08af0c&#34;&gt;Delivery Pipeline&lt;/h3&gt;
+
+&lt;p&gt;Having a solid, trusted, and automated means of moving software from laptop to production.  This is achieved using techniques like live deployments, canaries, and A/B environments, combined appropriate metrics to gauge deployment success and production health enables groups to practice continuous deployment and go fast and not break.&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
